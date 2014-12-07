@@ -30,7 +30,7 @@ body {
 .matrix li:nth-child(1):before {
   display: block;
   width: 1em;
-  content: "ト ん ョ う ウ と タ マ フ ン た た こ ウ ん う フ タ ョ タ ば ウ ョ フ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(1):after {
   -moz-box-sizing: border-box;
@@ -46,7 +46,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ト";
+  content: "0";
   padding-top: 264px;
   overflow: hidden;
   -webkit-animation: 1920ms column-1 infinite steps(1, start);
@@ -457,7 +457,7 @@ body {
 .matrix li:nth-child(2):before {
   display: block;
   width: 1em;
-  content: "ト ん ョ う ウ と タ マ フ ン た た こ ウ ん う フ タ ョ タ ば ウ ョ フ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(2):after {
   -moz-box-sizing: border-box;
@@ -473,7 +473,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ん";
+  content: "1";
   padding-top: 120px;
   overflow: hidden;
   -webkit-animation: 1920ms column-2 infinite steps(1, start);
@@ -884,7 +884,7 @@ body {
 .matrix li:nth-child(3):before {
   display: block;
   width: 1em;
-  content: "ト ん ョ う ウ と タ マ フ ン た た こ ウ ん う フ タ ョ タ ば ウ ョ フ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(3):after {
   -moz-box-sizing: border-box;
@@ -900,7 +900,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "タ";
+  content: "0";
   padding-top: 408px;
   overflow: hidden;
   -webkit-animation: 1920ms column-3 infinite steps(1, start);
@@ -1311,7 +1311,7 @@ body {
 .matrix li:nth-child(4):before {
   display: block;
   width: 1em;
-  content: "こ ド た ョ ょ ウ こ リ バ ョ と ウ リ た た ウ マ ば ん と こ ソ う と";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(4):after {
   -moz-box-sizing: border-box;
@@ -1327,7 +1327,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "た";
+  content: "1";
   padding-top: 336px;
   overflow: hidden;
   -webkit-animation: 1920ms column-4 infinite steps(1, start);
@@ -1738,7 +1738,7 @@ body {
 .matrix li:nth-child(5):before {
   display: block;
   width: 1em;
-  content: "ん ト こ ば ン わ ド ょ マ ン フ シ う と シ ン タ マ シ ド と ワ ソ バ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(5):after {
   -moz-box-sizing: border-box;
@@ -1754,7 +1754,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "と";
+  content: "1";
   padding-top: 312px;
   overflow: hidden;
   -webkit-animation: 1920ms column-5 infinite steps(1, start);
@@ -2165,7 +2165,7 @@ body {
 .matrix li:nth-child(6):before {
   display: block;
   width: 1em;
-  content: "ワ ば ウ ソ ョ し ョ ン こ う コ ょ ウ マ バ ば し ワ バ た と キ ょ タ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(6):after {
   -moz-box-sizing: border-box;
@@ -2181,7 +2181,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ン";
+  content: "0";
   padding-top: 168px;
   overflow: hidden;
   -webkit-animation: 1920ms column-6 infinite steps(1, start);
@@ -2592,7 +2592,7 @@ body {
 .matrix li:nth-child(7):before {
   display: block;
   width: 1em;
-  content: "ド ン マ タ こ キ リ ト コ リ ョ ば ン ワ た キ キ こ シ ド た キ ウ ン";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(7):after {
   -moz-box-sizing: border-box;
@@ -2608,7 +2608,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ン";
+  content: "1";
   padding-top: 288px;
   overflow: hidden;
   -webkit-animation: 1920ms column-7 infinite steps(1, start);
@@ -3019,7 +3019,7 @@ body {
 .matrix li:nth-child(8):before {
   display: block;
   width: 1em;
-  content: "こ わ ン シ シ リ わ マ う た う キ き き ば フ ド ト フ タ ん ば ン ラ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(8):after {
   -moz-box-sizing: border-box;
@@ -3035,7 +3035,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ト";
+  content: "0";
   padding-top: 408px;
   overflow: hidden;
   -webkit-animation: 1920ms column-8 infinite steps(1, start);
@@ -3446,7 +3446,7 @@ body {
 .matrix li:nth-child(9):before {
   display: block;
   width: 1em;
-  content: "ド ん た ん マ ん フ タ リ タ た ン フ シ た ン マ リ き キ フ た タ ワ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(9):after {
   -moz-box-sizing: border-box;
@@ -3462,7 +3462,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "フ";
+  content: "1";
   padding-top: 144px;
   overflow: hidden;
   -webkit-animation: 1920ms column-9 infinite steps(1, start);
@@ -3873,7 +3873,7 @@ body {
 .matrix li:nth-child(10):before {
   display: block;
   width: 1em;
-  content: "ん ワ ク ド ん ョ コ ば う こ わ ド ょ ウ ょ ょ し ラ た わ フ た ン マ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(10):after {
   -moz-box-sizing: border-box;
@@ -3889,7 +3889,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "わ";
+  content: "0";
   padding-top: 456px;
   overflow: hidden;
   -webkit-animation: 1920ms column-10 infinite steps(1, start);
@@ -4300,7 +4300,7 @@ body {
 .matrix li:nth-child(11):before {
   display: block;
   width: 1em;
-  content: "タ マ ば ョ た ウ た ワ し タ ク シ ょ タ し ン タ こ コ ョ ソ バ う リ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(11):after {
   -moz-box-sizing: border-box;
@@ -4316,7 +4316,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ョ";
+  content: "1";
   padding-top: 72px;
   overflow: hidden;
   -webkit-animation: 1920ms column-11 infinite steps(1, start);
@@ -4727,7 +4727,7 @@ body {
 .matrix li:nth-child(12):before {
   display: block;
   width: 1em;
-  content: "ョ き ょ ウ ン ワ コ ょ ウ ン ば う き ウ こ リ キ ド タ ば ょ ョ ウ マ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(12):after {
   -moz-box-sizing: border-box;
@@ -4743,7 +4743,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ウ";
+  content: "1";
   padding-top: 72px;
   overflow: hidden;
   -webkit-animation: 1920ms column-12 infinite steps(1, start);
@@ -5154,7 +5154,7 @@ body {
 .matrix li:nth-child(13):before {
   display: block;
   width: 1em;
-  content: "タ ょ と ン キ ょ ん キ フ た ョ ョ ョ ト し わ ょ ョ マ ょ ソ た タ し";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(13):after {
   -moz-box-sizing: border-box;
@@ -5170,7 +5170,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ョ";
+  content: "0";
   padding-top: 264px;
   overflow: hidden;
   -webkit-animation: 1920ms column-13 infinite steps(1, start);
@@ -5581,7 +5581,7 @@ body {
 .matrix li:nth-child(14):before {
   display: block;
   width: 1em;
-  content: "ョ ョ フ ば キ ン シ ょ ょ リ フ き う フ ラ ウ ウ タ う リ ラ シ う と";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(14):after {
   -moz-box-sizing: border-box;
@@ -5597,7 +5597,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ン";
+  content: "1";
   padding-top: 120px;
   overflow: hidden;
   -webkit-animation: 1920ms column-14 infinite steps(1, start);
@@ -6008,7 +6008,7 @@ body {
 .matrix li:nth-child(15):before {
   display: block;
   width: 1em;
-  content: "マ し ン ン た ョ キ た ん ク た コ ょ し ラ ば ト ラ わ う き フ コ タ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(15):after {
   -moz-box-sizing: border-box;
@@ -6024,7 +6024,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "し";
+  content: "0";
   padding-top: 312px;
   overflow: hidden;
   -webkit-animation: 1920ms column-15 infinite steps(1, start);
@@ -6435,7 +6435,7 @@ body {
 .matrix li:nth-child(16):before {
   display: block;
   width: 1em;
-  content: "フ ウ た リ ョ と ン ョ コ ョ う わ し う ょ ン ば ン タ た ワ た ド し";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(16):after {
   -moz-box-sizing: border-box;
@@ -6451,7 +6451,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ン";
+  content: "1";
   padding-top: 144px;
   overflow: hidden;
   -webkit-animation: 1920ms column-16 infinite steps(1, start);
@@ -6862,7 +6862,7 @@ body {
 .matrix li:nth-child(17):before {
   display: block;
   width: 1em;
-  content: "ウ ウ ウ ウ き ソ と ド こ こ ウ ば シ バ う ば し し ン ょ ラ ク コ ョ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(17):after {
   -moz-box-sizing: border-box;
@@ -6878,7 +6878,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ウ";
+  content: "0";
   padding-top: 240px;
   overflow: hidden;
   -webkit-animation: 1920ms column-17 infinite steps(1, start);
@@ -7289,7 +7289,7 @@ body {
 .matrix li:nth-child(18):before {
   display: block;
   width: 1em;
-  content: "う リ ょ キ ウ た ョ ょ き ん バ た ワ タ き ョ う た ラ ウ キ と ょ た";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(18):after {
   -moz-box-sizing: border-box;
@@ -7305,7 +7305,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "バ";
+  content: "1";
   padding-top: 240px;
   overflow: hidden;
   -webkit-animation: 1920ms column-18 infinite steps(1, start);
@@ -7716,7 +7716,7 @@ body {
 .matrix li:nth-child(19):before {
   display: block;
   width: 1em;
-  content: "ん ソ キ リ フ ょ き ラ た ソ コ キ ョ ン マ キ わ と た タ タ ン う ワ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(19):after {
   -moz-box-sizing: border-box;
@@ -7732,7 +7732,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "キ";
+  content: "0";
   padding-top: 264px;
   overflow: hidden;
   -webkit-animation: 1920ms column-19 infinite steps(1, start);
@@ -8143,7 +8143,7 @@ body {
 .matrix li:nth-child(20):before {
   display: block;
   width: 1em;
-  content: "バ ト ん わ ョ タ ン し フ ク ン ん リ た ラ う タ ド ば き ょ フ た シ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(20):after {
   -moz-box-sizing: border-box;
@@ -8159,7 +8159,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "シ";
+  content: "1";
   padding-top: 552px;
   overflow: hidden;
   -webkit-animation: 1920ms column-20 infinite steps(1, start);
@@ -8570,7 +8570,7 @@ body {
 .matrix li:nth-child(21):before {
   display: block;
   width: 1em;
-  content: "ん う ソ シ ョ ウ リ ト フ ト こ こ た う ョ ょ ソ ウ バ ク ワ ん ク タ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(21):after {
   -moz-box-sizing: border-box;
@@ -8586,7 +8586,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ソ";
+  content: "0";
   padding-top: 384px;
   overflow: hidden;
   -webkit-animation: 1920ms column-21 infinite steps(1, start);
@@ -8997,7 +8997,7 @@ body {
 .matrix li:nth-child(22):before {
   display: block;
   width: 1em;
-  content: "ワ ョ し こ し ワ ン ワ ラ ソ ラ た ば ョ タ シ た ョ ョ タ し ン こ ウ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(22):after {
   -moz-box-sizing: border-box;
@@ -9013,7 +9013,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ラ";
+  content: "1";
   padding-top: 192px;
   overflow: hidden;
   -webkit-animation: 1920ms column-22 infinite steps(1, start);
@@ -9424,7 +9424,7 @@ body {
 .matrix li:nth-child(23):before {
   display: block;
   width: 1em;
-  content: "わ ン キ シ ク ょ た バ ト ょ ク ョ う う コ ン ド コ ョ ン う た タ ん";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(23):after {
   -moz-box-sizing: border-box;
@@ -9440,7 +9440,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "う";
+  content: "0";
   padding-top: 312px;
   overflow: hidden;
   -webkit-animation: 1920ms column-23 infinite steps(1, start);
@@ -9851,7 +9851,7 @@ body {
 .matrix li:nth-child(24):before {
   display: block;
   width: 1em;
-  content: "マ ン ク コ こ ウ ョ う ウ ク タ ウ リ ラ ン こ し ョ こ ョ ウ わ ン フ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(24):after {
   -moz-box-sizing: border-box;
@@ -9867,7 +9867,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ラ";
+  content: "1";
   padding-top: 312px;
   overflow: hidden;
   -webkit-animation: 1920ms column-24 infinite steps(1, start);
@@ -10278,7 +10278,7 @@ body {
 .matrix li:nth-child(25):before {
   display: block;
   width: 1em;
-  content: "リ ソ ウ タ ょ ソ マ ワ ラ ン き こ こ ょ ョ バ ト し ク タ ョ キ と ソ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(25):after {
   -moz-box-sizing: border-box;
@@ -10294,7 +10294,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ょ";
+  content: "0";
   padding-top: 312px;
   overflow: hidden;
   -webkit-animation: 1920ms column-25 infinite steps(1, start);
@@ -10705,7 +10705,7 @@ body {
 .matrix li:nth-child(26):before {
   display: block;
   width: 1em;
-  content: "ん ソ タ た マ た こ き リ う ョ し シ ょ ト リ ょ ウ こ し ド タ う ウ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(26):after {
   -moz-box-sizing: border-box;
@@ -10721,7 +10721,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "タ";
+  content: "1";
   padding-top: 48px;
   overflow: hidden;
   -webkit-animation: 1920ms column-26 infinite steps(1, start);
@@ -11132,7 +11132,7 @@ body {
 .matrix li:nth-child(27):before {
   display: block;
   width: 1em;
-  content: "ょ た フ ン ド リ マ ラ タ バ ソ タ ば と キ ン ソ た ょ わ ょ う バ ょ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(27):after {
   -moz-box-sizing: border-box;
@@ -11148,7 +11148,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "タ";
+  content: "0";
   padding-top: 192px;
   overflow: hidden;
   -webkit-animation: 1920ms column-27 infinite steps(1, start);
@@ -11559,7 +11559,7 @@ body {
 .matrix li:nth-child(28):before {
   display: block;
   width: 1em;
-  content: "ョ バ ョ こ バ と ん フ ド た ト シ た タ ン リ キ と し ド う ワ ょ ウ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(28):after {
   -moz-box-sizing: border-box;
@@ -11575,7 +11575,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "フ";
+  content: "1";
   padding-top: 168px;
   overflow: hidden;
   -webkit-animation: 1920ms column-28 infinite steps(1, start);
@@ -11986,7 +11986,7 @@ body {
 .matrix li:nth-child(29):before {
   display: block;
   width: 1em;
-  content: "フ ば と ョ ば フ シ き ク リ ワ う マ ウ う ン ょ ょ ソ ク ョ た た リ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(29):after {
   -moz-box-sizing: border-box;
@@ -12002,7 +12002,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ょ";
+  content: "0";
   padding-top: 384px;
   overflow: hidden;
   -webkit-animation: 1920ms column-29 infinite steps(1, start);
@@ -12413,7 +12413,7 @@ body {
 .matrix li:nth-child(30):before {
   display: block;
   width: 1em;
-  content: "キ ょ ド わ ン こ マ タ ょ ょ ば ラ ョ タ ョ ん ょ ド た マ シ マ ョ シ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(30):after {
   -moz-box-sizing: border-box;
@@ -12429,7 +12429,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "マ";
+  content: "1";
   padding-top: 144px;
   overflow: hidden;
   -webkit-animation: 1920ms column-30 infinite steps(1, start);
@@ -12840,7 +12840,7 @@ body {
 .matrix li:nth-child(31):before {
   display: block;
   width: 1em;
-  content: "マ ド シ コ シ し ン ん フ キ ウ ト き た と リ マ こ た ン ド ン ウ ょ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(31):after {
   -moz-box-sizing: border-box;
@@ -12856,7 +12856,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "た";
+  content: "0";
   padding-top: 432px;
   overflow: hidden;
   -webkit-animation: 1920ms column-31 infinite steps(1, start);
@@ -13267,7 +13267,7 @@ body {
 .matrix li:nth-child(32):before {
   display: block;
   width: 1em;
-  content: "ウ た ん リ と う ょ ウ タ コ ド ば ク き タ と ク ン ょ ょ リ キ ト わ";
+  content: "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1";
 }
 .matrix li:nth-child(32):after {
   -moz-box-sizing: border-box;
@@ -13283,7 +13283,7 @@ body {
   top: 0;
   left: 0;
   color: white;
-  content: "ょ";
+  content: "1";
   padding-top: 456px;
   overflow: hidden;
   -webkit-animation: 1920ms column-32 infinite steps(1, start);
